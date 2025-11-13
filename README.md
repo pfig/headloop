@@ -2,6 +2,10 @@
 
 A 4-head looper with integrated tape recorder for Norns.
 
+## Updates
+
+Headloop V2.05 - November 13th 2025: Quick fix to the LFO 
+
 ## Overview
 
 HeadLoop is a multi-head looper that provides independent control over 4 playback heads with extensive sound-shaping capabilities. Each head can manipulate pitch, filters, panning, loop position, and effects sends independently. The integrated tape recorder allows you to capture the output of all heads for layered compositions.
